@@ -1,1 +1,5 @@
 # ODE-Cancers-of-Unknown-Primary
+This repo contains the code and supporting documents I created for my final group project in a graduate class on modeling cancer as an intelligent system. This project involved creating an entire system of ordinary differential equations informed by lung cancer research to model the growth and metastasis of lung tumors. This model was created as a reference to assist physicians who are investigating the origins of a metastatic tumor with an unknown primary tumor of origin. While investigating the origins of the metastatic tumor, physicians can compare the growth of the patient's tumor to this ODE model in order to determine whether or not the tumor might have metastasized from the lungs. For more information on my motivation for this project and the details of its construction, read the project report included in this repo.
+
+## Description of Files:
+The two Jupyter notebook files contain the coded results for the non-small cell (NSC) and small cell (SC) lung cancer metastasis models. The presentation breaks the system of equations down into more detal and walks through the project with graphics. 
